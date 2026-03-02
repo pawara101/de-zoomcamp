@@ -208,3 +208,11 @@ __marimo__/
 
 # data
 data/
+*.csv
+
+.bruin.yml
+
+
+logs/runs
+logs/*.log
+*.py[cod]
