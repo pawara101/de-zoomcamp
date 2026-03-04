@@ -209,7 +209,9 @@ __marimo__/
 # data
 data/
 *.csv
-
+*.gz
+*.parquet.*
+*.parquet
 .bruin.yml
 
 
