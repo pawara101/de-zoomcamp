@@ -1,0 +1,10 @@
+CREATE TABLE processed_events (
+    PULocationID INTEGER,
+    DOLocationID INTEGER,
+    trip_distance DOUBLE PRECISION,
+    total_amount DOUBLE PRECISION,
+    tip_amount DOUBLE PRECISION,
+    pickup_datetime TIMESTAMP,
+    dropoff_datetime TIMESTAMP,
+    passenger_count INTEGER
+);
